@@ -15,7 +15,6 @@
 
 ### <font color="orangered">1. 个人简介</font>
 
-
 ### 2. 兴趣爱好
 
 ### 3. 我的家乡
@@ -24,13 +23,13 @@
 
 ## 1. 个人简介
 
-#詹钊煌
+# 詹钊煌
 
 
 ###### 詹钊煌,18岁，P大化学与分子工程学院（gui yuan)2017级本科弱鸡一枚,跪求各位大佬多多提携。
 
 
-######** 下附傻照一张，勿喷 **
+###### ** 下附傻照一张，勿喷 **
 
 <img src="https://gss3.bdstatic.com/-Po3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike80%2C5%2C5%2C80%2C26/sign=2ac904dca3014c080d3620f76b12696d/d4628535e5dde7115302ca83adefce1b9c1661f7.jpg" width=300 style="margin: 0px 80px">
 
@@ -60,7 +59,6 @@
 ## 内容
 
 ### 1. 个人简介</font>
-
 
 ### 2. 兴趣爱好</font>
 
